@@ -1,5 +1,6 @@
 
-# Bare-Metal Programming with libopencm3, with the help of @lowbyteproductions
+# Bare-Metal Programming with libopencm3, with the help of
+@lowbyteproductions
 
 ## 🛠️ Overview
 
